@@ -1,0 +1,4 @@
+baseURL = "http://dev.devcat.cloud"
+languageCode = "es-ES"
+title = "Dev Environment Site"
+theme = "ananke"
